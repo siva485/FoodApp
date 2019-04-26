@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="title_activity_linear">LinearActivity</string>
+    <string name="Button_Name">S</string>
+</resources>
